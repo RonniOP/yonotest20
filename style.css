@@ -1,0 +1,8 @@
+@media (max-width: 600px) {
+ .cell {
+    font-size: 8vw;
+    width: 15vw;
+    height: 15vw;
+  }
+  /*... other styles... */
+}
